@@ -1,3 +1,6 @@
+
+copy from   hauth-java
+
 #### jdk版本建议:
 ```
  jdk >= 8
