@@ -3,16 +3,10 @@
  jdk >= 8
 ```
 
-**Golang版本地址**
-[Golang hauth](https://github.com/asofdate/hauth)
+## hauth-lmhit项目简介
+add ORM
 
-## asofdate hauth项目简介
-每一个项目,都有截止日期,为了实现快速开发目标,我们以spring-boot为基础，开发出了一款快速开发平台。这个平台内部集成了菜单管理、用户管理、角色管理、授权管理、日志管理、机构管理、路由管理、域定义管理等等。在这个平台的基础上，可以快速的开发自己的应用,以响应瞬息万变的市场需求。
 
-## 项目目标
-打造一款安全，稳定，易拓展的快速开发平台.在这个平台的基础上，能够迅速的开发出市场上需要的应用产品，省去系统基础服务开发测试工作量。
-
-## 特点介绍
 
 1. 去session化，采用jwt标准管理用户连接信息，易于分布式环境部署.
 2. 菜单页面采用metro风格,简洁明了.
@@ -60,7 +54,7 @@ mvn clean package -DskipTests=true
 
 ## 交流方式
 
-E-mail： hzwy23@163.com
+
 
 demo演示地址：https://www.asofdate.com:8080
 
